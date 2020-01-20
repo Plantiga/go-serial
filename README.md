@@ -12,7 +12,7 @@ such as the Arduino platform.
 package main
 
 import (
-  "github.com/mikepb/go-serial"
+  "github.com/Plantiga/go-serial"
   "log"
 )
 
